@@ -1,0 +1,35 @@
+Finance:
+Hudson River Trading
+Jane street
+Jump
+
+General Tech:
+Google
+Facebook
+Snapchat
+Airbnb
+Dropbox
+Quora
+Stripe
+Splunk
+Tableau
+Asana
+Twitch
+mongodb
+memsql
+Coursera
+rubrik
+docker
+
+Sub-Company Units/Labs:
+Amazon lab126
+Uber / Uber ATC
+Google Brain / deepmind / X / other shit
+Amazon AWS
+
+Maybe:
+Flatiron
+Vmware
+Box
+Square
+Addepar
